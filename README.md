@@ -18,6 +18,7 @@
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Gustavo-mysql" width="40" height="40"/>
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Gustavo-nodejs" width="40" height="40"/>
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Gustavo-linux" width="40" height="40"/>
+ <img align="center" alt="Gustavo-Jest" src="https://img.shields.io/badge/-Jest-96737D?style=for-the-badge&logo=jest&logoColor=99425B" width="40" height="40"/>
  
 </div>
 
